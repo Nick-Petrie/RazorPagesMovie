@@ -1,0 +1,35 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+h1{
+    color:darkorange;
+    text-shadow:1px 1px black;
+}
+h2{
+    color:darkgoldenrod;
+    text-shadow:1px 1px black;
+}
+img{
+    border-radius:20px;
+}
+a{
+    color:darkgoldenrod;
+}
+a:hover{
+    color:maroon;
+}
